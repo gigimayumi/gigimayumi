@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
- <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="VilarimLucas" />
- </a>
+
  <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="VilarimLucas"/>
  </a>
